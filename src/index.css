@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico|Sedgwick+Ave|Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Sedgwick+Ave|Dancing+Script');
 
 .App {
     background-color: #809728;
@@ -17,7 +17,7 @@
     margin-bottom: 30px;
     color: #fff;
     font-weight:200;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
     text-shadow: 5px 4px 5px #337ab7;
 }
 
